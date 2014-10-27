@@ -20,7 +20,7 @@ function caller(username){
 		}
 	});
 	
-} 
+};
 caller('Poshan');
 
 /*
